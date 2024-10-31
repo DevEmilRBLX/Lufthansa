@@ -1,4 +1,11 @@
+body {
+    display: flex;             /* Enables flexbox layout */
+    justify-content: center;   /* Centers items horizontally */
+    align-items: center;       /* Centers items vertically */
+    height: 100vh;            /* Full viewport height */
+    margin: 0;                /* Removes default margin */
+}
+
 h1.Headline {
-    align-items: center;
-    color: blue;
+    text-align: center;       /* Centers text within the h1 element */
 }
