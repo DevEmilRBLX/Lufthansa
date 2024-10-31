@@ -1,11 +1,11 @@
 body {
-    display: flex;             /* Enables flexbox layout */
-    justify-content: center;   /* Centers items horizontally */
-    align-items: center;       /* Centers items vertically */
-    height: 100vh;            /* Full viewport height */
-    margin: 0;                /* Removes default margin */
+    display: flex;             /* Ermöglicht Flexbox-Layout */
+    justify-content: center;   /* Zentriert Elemente horizontal */
+    align-items: center;       /* Zentriert Elemente vertikal */
+    height: 100vh;            /* Volle Höhe des Viewports */
+    margin: 0;                /* Entfernt Standardmargin */
 }
 
 h1.Headline {
-    text-align: center;       /* Centers text within the h1 element */
+    text-align: center;       /* Zentriert den Text innerhalb des h1-Elements */
 }
